@@ -1,5 +1,4 @@
-# Building a Generalizable Machine Learning Model to Predict Airbnb
-Price Across U.S. Cities
+# Building a Generalizable Machine Learning Model to Predict Airbnb Price Across U.S. Cities
 
 This project attempts to build a generalizable
 price prediction tool for Airbnb rental units.
